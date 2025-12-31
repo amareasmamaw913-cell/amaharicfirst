@@ -1,0 +1,7 @@
+{
+  "name": "Amharic Audio Transcriber",
+  "description": "A professional tool to record Amharic speech and convert it into text using Gemini's advanced multimodal capabilities. Features include real-time recording, transcription history, and export options.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
